@@ -1,0 +1,28 @@
+*
+!code/
+!code/*.py
+
+!img/
+# !img/*
+
+!input/
+# !input/*.csv
+# 存放测试的图片
+!input/test_images
+
+# 存放训练的图片
+!input/train_images
+
+# 模型训练的配置，配合code使用
+!model_config/
+!model_config/*
+
+# 抽取一个训练好的模型保存
+!log/
+# !log/densenet121
+# !log/densenet121/**/*
+
+!img/
+!img/*
+!readme.md
+!.gitignore

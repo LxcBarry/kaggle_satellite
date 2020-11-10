@@ -1,8 +1,5 @@
 # Kaggle satellite 
 
-## reference
-[类似比赛冠军描述](https://blog.csdn.net/weixin_34265814/article/details/89834008)  
-
 ## 先把训练的框标出来
 [代码](code/view_train.py)
 
